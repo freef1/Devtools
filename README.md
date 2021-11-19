@@ -1,1 +1,1 @@
-# Devtools, ADB
+# Devtools
